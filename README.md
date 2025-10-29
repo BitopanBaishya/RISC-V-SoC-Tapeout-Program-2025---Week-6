@@ -1,4 +1,4 @@
-# Week 4: Complete Physical Design
+# Week 6: Complete Physical Design
  
 The focus of this week is
 
